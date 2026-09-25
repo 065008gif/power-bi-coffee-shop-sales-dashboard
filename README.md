@@ -103,21 +103,3 @@ Excel (source data).
 ├── business_requirements.txt # KPI & chart requirements this report satisfies
 ├── screenshots/ # Dashboard screenshot(s) used in this README
 └── README.md
-
-## ▶️ How to open
-
-1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows only).
-2. Open `BI PROJECT COFFEE new.pbix`.
-3. Use the **Month Year** slicer on Page 1 to change the analysis month —
-   every KPI card, chart, and the calendar heat map will update together.
-4. Hover over a calendar day or a day/hour cell to see the tooltip pages
-   in action.
-
----
-
-## 🙏 Attribution
-
-The KPI/chart requirements in `business_requirements.txt` come from a
-project brief I worked from (not authored by me). The data model, DAX
-measures, and dashboard design in this repo are my own implementation of
-that brief.
