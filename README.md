@@ -97,9 +97,12 @@ Excel (source data).
 ---
 
 ## 📁 Repo contents
-├── BI PROJECT COFFEE new.pbix # Power BI report (data model + visuals)
-├── BI PROJECT COFFEE.pdf # Static PDF export of the report
-├── Coffee Shop Sales.xlsx # Source transaction data
-├── business_requirements.txt # KPI & chart requirements this report satisfies
-├── screenshots/ # Dashboard screenshot(s) used in this README
+
+```
+├── BI PROJECT COFFEE new.pbix     # Power BI report (data model + visuals)
+├── BI PROJECT COFFEE.pdf          # Static PDF export of the report
+├── Coffee Shop Sales.xlsx         # Source transaction data
+├── business_requirements.txt      # KPI & chart requirements this report satisfies
+├── screenshots/                   # Dashboard screenshot(s) used in this README
 └── README.md
+```
